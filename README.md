@@ -1,2 +1,2 @@
 # Classification-Clustering-Models
-This project was made to complete “Machine Learning for Beginner” course from Dicoding Academy. In this project, I implemented K-Means Clustering to segment tabular financial data and developed a Random Forest classifier to predict those categories.
+This project was made to complete “Machine Learning for Beginner” course from Dicoding Academy. In this project, I developed a machine learning pipeline using K-Means Clustering to segment financial transactions into distinct groups based on customer behavior and transaction details. These segments were then used as labels to train a Random Forest and Decision Tree classification model, which was optimized using hyperparameter tuning to accurately predict transaction categories.
